@@ -1,11 +1,11 @@
 .thumbnail-child {
   border: 0;
-  position: absolute;
+/*   position: absolute;
   top: calc(50% - 417px);
-  left: calc(50% - 681px);
+  left: calc(50% - 681px); */
   background-color: transparent;
-  width: 1362px;
-  height: 834px;
+/*   width: 1362px;
+  height: 834px; */
 }
 .eclipse,
 .eclipse1 {
